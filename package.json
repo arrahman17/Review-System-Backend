@@ -1,0 +1,19 @@
+{
+  "name": "review-app",
+  "version": "1.0.0",
+  "description": "Review based system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "mongoose": "*",
+    "rxjs": "^5.5.11"
+  },
+  "author": "ABM",
+  "license": "ISC"
+}
