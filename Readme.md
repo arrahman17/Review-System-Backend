@@ -31,11 +31,13 @@ Group Lorem
 
 Abdul-Rahman khan
 
-Bilawal Wajid Ali
+Bilawal Wajid 
 
-ABM Rucknuzzaman 
+ABM Rocknuzzaman
 
-Mahmood aali
+Aalli Mahmood
+
+Koussay Mizouri
 
 Muhammad Zeeshan 
 
