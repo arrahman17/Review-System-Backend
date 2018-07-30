@@ -7,9 +7,13 @@ Its basically a web-based system. The core idea of the project was to make an ap
 Features of the project
 
 Student can give Review on a specific course who is considerd senior for that course
+
 Student can check the review of the seniors student who is considerd junior for this course
+
 The reviwed course should be shown to the students with help of visualization in diagram about the course difficulty rate, course material, professor friendliness, course content and so on 
+
 The project contain the home page and info page also
+
 The course name should be given in string and the remaining fields should be in number from 1-5
 
 Architecture
