@@ -46,28 +46,28 @@ We basically use the mean stack archieteture for this app like we use Mongodb as
 
 ### How to Run the Project.
 
-How to run Server side module of our well known App "Review - System "
+* How to run Server side module of our well known App "Review - System "
 
-then open cmd in project folder and type " Npm start"	
+* Open cmd in project folder and type " Npm start"	
 
-pen another cmd in Client folder and write " ng serve"	Make sure you have the mongo db install on your pc , if not then go to uni due moodle , we already put the installation guide of mongo check that file from start to end , it will help you in the installation of the mongodb
+* Open another cmd in Client folder and write " ng serve"	Make sure you have the mongo db install on your pc , if not then go to uni due moodle , we already put the installation guide of mongo check that file from start to end , it will help you in the installation of the mongodb
 
-After installation of the mongo db , open the command prompt and run as the administrator and type mongod , and then open the mongo.exe which is in the bin folder of the mongo db folder
+* After installation of the mongo db , open the command prompt and run as the administrator and type mongod , and then open the mongo.exe which is in the bin folder of the mongo db folder
 
-if you set the path of mongo db globally than you can run mongo from the direct command prompt , no need to route in the mongo db folder 
+* If you set the path of mongo db globally than you can run mongo from the direct command prompt , no need to route in the mongo db folder 
 
-once mongo db is open and set to run it will show in the command prompt that server is connected and ready to run
+* Once mongo db is open and set to run it will show in the command prompt that server is connected and ready to run
 
-Than as mention above open mongo , and for testing write any mongo db command let say show dbs , it will show all the database which are currently exist 
+* Than as mention above open mongo , and for testing write any mongo db command let say show dbs , it will show all the database which are currently exist 
 
-than route to the project folder and open cmd and run npm start , it will start the node server and when it shows that that server is starting port : 3000 , it means all is ok and now your back end is running and triggered
+* Than route to the project folder and open cmd and run npm start , it will start the node server and when it shows that that server is starting port : 3000 , it means all is ok and now your back end is running and triggered
 
-thats all for the back end part , 
-
-
-for the front part you have to follow the same procedure as mention above , this time plus go to the client folder and the open cmd and first install npm install chart.js --save so you can able to see the charts part on the web page , upon doing that pls write ng serve and hit enter , it will compile every thing and once you see compiled successfully please go to the browser and type localhost 4200 and hit enter , now you finally able to see our application
-
-while running front end pls do not close back end terminal which you run moments ago in the previous step and also dont close the mongo db window
+* Thats all for the back end part , 
 
 
-Thats all how you can run our project
+* For the front part you have to follow the same procedure as mention above , this time plus go to the client folder and the open cmd and first install npm install chart.js --save so you can able to see the charts part on the web page , upon doing that pls write ng serve and hit enter , it will compile every thing and once you see compiled successfully please go to the browser and type localhost 4200 and hit enter , now you finally able to see our application
+
+* While running front end pls do not close back end terminal which you run moments ago in the previous step and also dont close the mongo db window
+
+
+* Thats all how you can run our project
