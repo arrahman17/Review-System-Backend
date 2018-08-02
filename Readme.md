@@ -22,8 +22,6 @@ we used three tier architecture , which is called client server system
 in client side student give and check the review of the course 
 in server used we database and controller part
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
-
 
 ### Technology we have used in our project
 
