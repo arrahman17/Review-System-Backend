@@ -1,10 +1,10 @@
-Project Review System
+# Course Review System
 
-Description
+### Description
 
 Its basically a web-based system. The core idea of the project was to make an application which contains the review for the students who are new to university , and wanted to know about the review for any course , so it is the app which will take review from the student and will use it for the new students
 
-Features of the project
+### Features of the project
 
 Student can give Review on a specific course who is considerd senior for that course
 
@@ -16,35 +16,35 @@ The project contain the home page and info page also
 
 The course name should be given in string and the remaining fields should be in number from 1-5
 
-Architecture
+### Architecture
 
 we used three tier architecture , which is called client server system
 in client side student give and check the review of the course 
 in server used we database and controller part
 
-Technology we have used in our project
+### Technology we have used in our project
 
 We basically use the mean stack archieteture for this app like we use Mongodb as the db part , node js for the backend run time enviroment , express for pure backend thing and angular for the getting data from backend and put it on the front end and also we implement the bootstrap them for designing purpose
 
 
-Group Lorem 
+### Group: Lorem 
 
-Abdul-Rahman khan
+* Abdul-Rahman khan
 
-Bilawal Wajid 
+* Bilawal Wajid 
 
-ABM Rocknuzzaman
+* ABM Rocknuzzaman
 
-Aalli Mahmood
+* Aalli Mahmood
 
-Koussay Mizouri
+* Koussay Mizouri
 
-Muhammad Zeeshan 
+* Muhammad Zeeshan 
 
-Ghulam Dawood Nasimi
+* Ghulam Dawood Nasimi
 
 
-How to Run the Project.
+### How to Run the Project.
 
 How to run Server side module of our well known App "Review - System "
 
@@ -68,7 +68,6 @@ thats all for the back end part ,
 for the front part you have to follow the same procedure as mention above , this time plus go to the client folder and the open cmd and first install npm install chart.js --save so you can able to see the charts part on the web page , upon doing that pls write ng serve and hit enter , it will compile every thing and once you see compiled successfully please go to the browser and type localhost 4200 and hit enter , now you finally able to see our application
 
 while running front end pls do not close back end terminal which you run moments ago in the previous step and also dont close the mongo db window
-
 
 
 Thats all how you can run our project
