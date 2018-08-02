@@ -22,6 +22,9 @@ we used three tier architecture , which is called client server system
 in client side student give and check the review of the course 
 in server used we database and controller part
 
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
+
 ### Technology we have used in our project
 
 We basically use the mean stack archieteture for this app like we use Mongodb as the db part , node js for the backend run time enviroment , express for pure backend thing and angular for the getting data from backend and put it on the front end and also we implement the bootstrap them for designing purpose
