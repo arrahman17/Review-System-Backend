@@ -27,6 +27,15 @@ in server used we database and controller part
 
 We basically use the mean stack archieteture for this app like we use Mongodb as the db part , node js for the backend run time enviroment , express for pure backend thing and angular for the getting data from backend and put it on the front end and also we implement the bootstrap them for designing purpose
 
+### Screenshots
+- Homepage of the Project
+![github-small](https://user-images.githubusercontent.com/41241181/70668016-b06cef00-1c72-11ea-830a-4bd1df23e8cc.png)
+
+- Add Course to the database
+![github-small](https://user-images.githubusercontent.com/41241181/70668097-e1e5ba80-1c72-11ea-9eca-db609d8a0e5d.png)
+
+-Overview of the added courses
+![github-small](https://user-images.githubusercontent.com/41241181/70668134-fde95c00-1c72-11ea-84dc-a4b4f8840c2e.png)
 
 ### Group: Lorem 
 
@@ -72,3 +81,4 @@ We basically use the mean stack archieteture for this app like we use Mongodb as
 
 
 * Thats all how you can run our project
+
