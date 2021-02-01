@@ -43,7 +43,7 @@ We basically use the mean stack archieteture for this app like we use Mongodb as
 
 * Bilawal Wajid 
 
-* ABM Rocknuzzaman
+* A.B.M. Rocknuzzaman
 
 * Aalli Mahmood
 
